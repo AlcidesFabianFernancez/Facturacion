@@ -1,0 +1,11 @@
+GroupBox ->contenedor 
+
+Label Formato
+  Fuente	       Estilo    tamaño
+Arial Rounded Mt  Negrita     9
+
+Button Formato
+fuente
+Arial Rounded Mt    Negrita    12
+size
+109;33
